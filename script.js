@@ -1,6 +1,6 @@
 // Set a specific username and password
-const correctUsername = "prime";
-const correctPassword = "1234";
+const correctUsername = "class10";
+const correctPassword = "hompho";
 
 // Track login attempts
 let attempts = 0;
@@ -25,6 +25,7 @@ loginBtn.addEventListener('click', function() {
         }
     }
 });
+
 
 
 
