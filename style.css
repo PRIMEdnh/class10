@@ -137,7 +137,7 @@ a {
   color: inherit;
   display: inline-block;
   
-}
+
 
 .clickable-div {
   padding: 20px;
@@ -570,12 +570,13 @@ details p {
   width: 100px;         /* circle size */
   height: 100px;
   border-radius: 50%;
-  background-image: url("PRIME dnh.webp"); /* apna logo */
+  background-image: url("prime.jpg"); /* apna logo */
   background-size: cover;    /* image pura circle cover karega */
   background-position: center; /* center me rahega */
   background-repeat: no-repeat;
   box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
+
 
 
 
